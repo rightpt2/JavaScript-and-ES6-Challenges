@@ -42,3 +42,5 @@ List of all challenges:
 - Challenge 18 - Classes
 - Challenge 19 - Iterate over Object
 - Challenge 20 - Sum of positive and negative numbers
+
+I am making some changes in my local repo, to compair with the upstream to see what happens
